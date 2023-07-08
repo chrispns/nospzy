@@ -1,5 +1,4 @@
-- Hi, I’m @chrispns
-- Thats, all
+
 
 <!---
 chrispns/chrispns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
